@@ -1,0 +1,12 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.6",
+  "Category": "VR",
+  "Description": "Standalone 360-degree interior panorama viewer for Meta Quest and OpenXR.",
+  "Modules": [],
+  "Plugins": [
+    { "Name": "OpenXR", "Enabled": true },
+    { "Name": "OpenXRHandTracking", "Enabled": true },
+    { "Name": "PythonScriptPlugin", "Enabled": true }
+  ]
+}
